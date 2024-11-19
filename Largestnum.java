@@ -1,4 +1,4 @@
-public class LargestNumberInArray {
+public class Largestnum {
     public static void main(String[] args) {
         // Example array
         int[] arr = {12, 35, 1, 10, 34, 1};
